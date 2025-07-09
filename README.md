@@ -18,7 +18,7 @@ This project is a Spring Boot application that demonstrates authentication and a
 - **Maven**: Dependency management.
 - **BCrypt**: For password hashing.
 - **Lombok**: Reduces boilerplate code.
-- **H2 Database**: In-memory database for development.
+- **Postgres Database**: Postgres database for development.
 
 ## Project Structure
 - `src/main/java/com/binitshrestha/Auth_Security_Practise/config`: Contains configuration classes for Spring Security and application setup.
